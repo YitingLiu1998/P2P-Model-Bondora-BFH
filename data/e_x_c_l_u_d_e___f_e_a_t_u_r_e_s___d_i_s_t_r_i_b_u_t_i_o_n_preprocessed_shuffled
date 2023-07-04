@@ -1,0 +1,13 @@
+inc.princ.empl.l
+inc.pension.l
+inc.fam.all.l
+inc.soc.wel.l
+inc.leave.l
+inc.child.l
+inc.other.l
+eigenvector
+authority
+hub
+eigenvector_shuffled
+authority_shuffled
+hub_shuffled
